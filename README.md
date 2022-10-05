@@ -1,4 +1,5 @@
 # POPUP-LOV-in-Oracle-Apex
+# show multiple columns with Popup Lov and return multiple values into Page Items
 
 <pre>
 COLUMN_NAME1:P1_ITEM_NAME1,COLUMN_NAME2:P1_ITEM_NAME2
